@@ -1,100 +1,74 @@
-Johnny Coder
+
+Vincenzo DiMaggio
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Software developer with experience in back-end Java and C++ seeks to 
+> leverage current experience and expertise while remaining open to future learning.  
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2020-2021 
+:   **BS, Computer Science**; Lewis University  3.86/4.0 GPA  (Romeoville, Illinois) 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2017-2020
+:   **Associates of Science**; College of DuPage  3.76/4.0 GPA  (Glen Ellyn, Illinois) 
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Entry Level Consultant - CodaBears**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Created customizations for the Epicor ERP software using C# and SQL:
 
-* First item
+* Worked with clients to create customizations to meet their specifications
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Quickly learned both C# and the Epicor ERP system with no prior experience
 
-**That Other Job You Had**
+Training
+--------
 
-Also with a short description.
+**Full Stack Development Using Java - Wiley Edge**
+
+    * Advanced Java and OOP
+    * Spring Boot Full Stack Web Apps 
+    * REST Web Services with jQuery
+    * Relational Databases and SQL
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+[Space Invaders in C++](https://github.com/dimaggiov/SpaceInvaders)
+:   Created a playable version of Space Invaders in C++
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Used OpenGL through GLEW and GLFW for visual output 
+    * Learned on the fly to create the gameplay engine from scratch
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Capstone Project at Lewis University
+:   Aunt Mary's Story Book
+
+    * Collaborated with a team of four classmates to develop a website using the PHP framework Laravel
+    * Read and redesigned and existing version written in the PHP framework CodeIgniter
+    * Used muliple REST APIs to gather complete information about requested books    
+    * Integrated and exsisting SQL database into the new version
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Java** Java was the first language I was introduced to and it had remained
+    an important part of my toolkit since. My main points of experience using Java
+    come from the introductory and advanced courses I took during college as well as
+    the full stack development course I have listed above.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **C++** I gained a fair bit of knowledge regarding C++ in my time in school
+    but most of my knowledge about C++ comes from my own study when I was creating the 
+    Space Invaders project.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+:   Basic knowledge of **C#**, **x86 assembly**, **JavaScript**, **Python**, **Git**
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <dimaggiov5@gmail.com> • +1 (708) 504 0987 • [github.com/dimaggiov](https://github.com/dimaggiov)\
+> 4432 Arthur Ave - Brookfield, Illinois
