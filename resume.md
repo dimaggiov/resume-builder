@@ -57,7 +57,7 @@ Capstone Project at Lewis University
     * Integrated and exsisting SQL database into the new version
 
 Programming Languages
-:   **Java** Java was the first language I was introduced to and it had remained
+:   **Java** Java was the first language I was introduced to and it has remained
     an important part of my toolkit since. My main points of experience using Java
     come from the introductory and advanced courses I took during college as well as
     the full stack development course I have listed above.
